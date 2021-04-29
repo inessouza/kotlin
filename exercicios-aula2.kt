@@ -99,24 +99,7 @@ fun main() {
     } else if (imc > 25.1) {
         println("Acima do peso.")
    	}
-    
-     /*val peso = 88
-    val altura = 1.8
-    val imc = peso/(altura*altura)
-    
-    println("IMC = %.2f".format(imc))
-    
-    
-    if (imc >= 18.5 && imc <= 24.9) {
-        println("Parabéns")
-    } else if (imc >= 25 && imc <= 29.9) {
-        println("Você está acima de seu peso (sobrepeso)")
-    } else if (imc >= 30 && imc <= 34.9) {
-        println("Obesidade Grau 1")
-   	}else{
-        println("Obesidade Grau 2")
-    } */  
-    
+       
     // ------------------------------------------------------------------------------
 	// 6. Utilizando o loop de repetição for, crie um programa que imprima qualquer tabuada
 	println("\n\n#6")
